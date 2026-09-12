@@ -1,6 +1,6 @@
 🖱️ ESP32 Wireless Mouse
 
-![ESP32 Wireless Mouse](images/esp32-wifi-scanner.png)
+![ESP32 Wireless Mouse](images/ESP32%20Wireless%20Mouse%20(2).jpeg)
 
 A simple wireless Bluetooth mouse built using an ESP32, MPU6050 motion sensor, and two push buttons.
 
