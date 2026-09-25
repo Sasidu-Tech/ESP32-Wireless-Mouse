@@ -1,5 +1,11 @@
 🖱️ ESP32 Wireless Mouse
 
+
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/geW4ntmd)
+
+
 ![ESP32 Wireless Mouse](images/ESP32%20Wireless%20Mouse%20(2).jpeg)
 
 A simple wireless Bluetooth mouse built using an ESP32, MPU6050 motion sensor, and two push buttons.
